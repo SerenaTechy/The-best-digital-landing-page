@@ -1,0 +1,8 @@
+@media  (max-width: 768px){ 
+ .button{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+padding-bottom: 100px;
+ }
+}
